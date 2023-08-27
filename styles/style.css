@@ -99,9 +99,11 @@
   line-height: var(--regular-line-height);
   text-transform: lowercase;
   color: var(--decoration-color);
+  cursor: pointer;
 }
 
 .header__theme-menu-button_active {
+  pointer-events: none;
   border: 1px solid var(--decoration-color);
 }
 
