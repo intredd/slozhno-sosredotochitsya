@@ -92,9 +92,7 @@
 }
 
 .header__theme-menu-button {
-  height: 26px;
-  width: 70px;
-  padding: 0;
+  padding: 4px 13px;
   background-color: inherit;
   border: none;
   font-size: var(--regular-font-size);
@@ -285,7 +283,6 @@
 
   .footer {
     padding: 20px;
-    block-size: 100vh;
   }
 }
 

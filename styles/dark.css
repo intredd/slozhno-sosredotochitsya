@@ -6,7 +6,7 @@
 
 
 .page.theme_dark {
-  --background-image: url("/images/cover-image-dark.png");
+  --background-image: url("./images/cover-image-dark.png");
   --accent-color: #ff0070;
   --accent-color-opacity: #ff007066;
   --text-color: #f1b2ce;
